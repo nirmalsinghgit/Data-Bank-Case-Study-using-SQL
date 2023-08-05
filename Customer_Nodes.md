@@ -29,6 +29,12 @@ In this Section of Case study Customer Nodes is analyzed using SQL.
 
 ![Image](https://github.com/nirmalsinghgit/Data-Bank-Case-Study-using-SQL/assets/138468022/16842d8b-ae4e-4ff7-a821-fd797a06f7ea)
 
+**Q4.How many days on average are customers reallocated to a different node?**
+
+
+![Image](https://github.com/nirmalsinghgit/Data-Bank-Case-Study-using-SQL/assets/138468022/3721d9d2-9180-4ba2-a71b-e444626c94df)
+
+
 
 
 
