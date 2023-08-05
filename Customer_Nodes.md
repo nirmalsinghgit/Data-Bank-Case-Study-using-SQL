@@ -10,7 +10,7 @@ In this Section of Case study Customer Nodes is analyzed using SQL.
 
 4.How many days on average are customers reallocated to a different node?
 
-5.What is the median ,80th and 95th percentile for this same reallocation days metric for each region? 
+
 
 
 
