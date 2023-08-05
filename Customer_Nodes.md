@@ -15,6 +15,13 @@ In this Section of Case study Customer Nodes is analyzed using SQL.
 
 ![Image](https://github.com/nirmalsinghgit/Data-Bank-Case-Study-using-SQL/assets/138468022/3b963042-af75-4998-9990-05e1b99a340e)
 
+**Q2.What is the number of nodes per region?**
+
+
+
+![Image](https://github.com/nirmalsinghgit/Data-Bank-Case-Study-using-SQL/assets/138468022/3eb5f2ee-f391-4a47-9698-af6d62ee178b)
+
+
 
 
 
