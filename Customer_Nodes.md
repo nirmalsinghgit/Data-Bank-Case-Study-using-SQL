@@ -24,6 +24,12 @@ In this Section of Case study Customer Nodes is analyzed using SQL.
 ![Image](https://github.com/nirmalsinghgit/Data-Bank-Case-Study-using-SQL/assets/138468022/3eb5f2ee-f391-4a47-9698-af6d62ee178b)
 
 
+**Q3.How many customers are allocated to each region?**
+
+
+![Image](https://github.com/nirmalsinghgit/Data-Bank-Case-Study-using-SQL/assets/138468022/16842d8b-ae4e-4ff7-a821-fd797a06f7ea)
+
+
 
 
 
