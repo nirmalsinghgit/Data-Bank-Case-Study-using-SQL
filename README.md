@@ -44,6 +44,8 @@ Customer transaction table stores all customer deposits, withdrawals and purchas
  
 ## Entity Relationship Diagram
 ![image](https://user-images.githubusercontent.com/77529445/165748352-09dfcafd-07a6-4bf0-b171-7ba0ec75aa22.png)
+
+Here In this I have solved two case studies related to Customer_Nodes table and Customer_Transactions.
   
 
 
